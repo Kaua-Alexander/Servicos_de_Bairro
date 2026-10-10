@@ -1,6 +1,7 @@
 from app.data.servico_mock import SERVICOS
 
 
+
 class Servico:
     def __init__(self, id, nome, categoria, descricao, preco_base, ativo=True):
         self._id = id
