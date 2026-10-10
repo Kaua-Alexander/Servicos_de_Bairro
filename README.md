@@ -12,6 +12,7 @@ Backend didático para divulgar serviços oferecidos por profissionais da regiã
 
 Abra o terminal na pasta do projeto e execute:
 
+
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
